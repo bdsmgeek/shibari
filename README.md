@@ -30,4 +30,11 @@ My prefferd maintence routine is:
 
 - Mocojute explains how he takes care of his rope: https://youtube.com/watch?v=uMq4SF2q1bw
 
+## Ties
+
+### Woven Hip Harness
+Hip harness recommended by PondLiliy for self suspensions.
+
+- https://vimeo.com/384992981
+
 
