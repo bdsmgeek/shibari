@@ -22,4 +22,5 @@ Glossary of shibari terms for my own memorization
 - wrap - usually a designation of rope being coiled around wide coloumb, ie top wrap, bottom wrap.
 - munter - munter hitch
 - hitch - a regular hitch
+- L Friction - under the stem, over the stem, under the wrap, over the wrap, under the stem.
   
