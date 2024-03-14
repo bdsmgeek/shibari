@@ -16,3 +16,10 @@ Glossary of shibari terms for my own memorization
 - kenuki - rope that ensure that other wraps don't move.
 - agura - cross legged tie
 - tengu - chicken wing / Trex arms
+- teppo - rifle tie
+- bite - the bent middle of a diloubked up rope
+- stem - a vertical column with a tie, usually something the has rope wrapping around it.
+- wrap - usually a designation of rope being coiled around wide coloumb, ie top wrap, bottom wrap.
+- munter - munter hitch
+- hitch - a regular hitch
+  
