@@ -23,4 +23,5 @@ Glossary of shibari terms for my own memorization
 - munter - munter hitch
 - hitch - a regular hitch
 - L Friction - under the stem, over the stem, under the wrap, over the wrap, under the stem.
+- shinju - breast/chest harness, sometime refers to breast bondage.
   
